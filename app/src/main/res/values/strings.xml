@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Image To PDF</string>
+    <string name="tap">Tap</string>
+    <string name="to_add_image_files">to add image files</string>
+    <string name="add_images">Add Images</string>
+    <string name="convert_to_pdf">Convert to PDF</string>
+    <string name="enter_file_name">ENTER FILE NAME</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="save">SAVE</string>
+    <string name="button_below">button below</string>
+    <string name="start_a_new_pdf_conversion_by_tapping_the">Start a new PDF conversion by tapping the</string>
+    <string name="you_don_t_have_any_pdf_documents">You don\'t have any PDF documents</string>
+    <string name="select_the_page_orientation">SELECT THE PAGE ORIENTATION</string>
+    <string name="page_size">PAGE SIZE</string>
+    <string name="margin">MARGIN</string>
+    <string name="compression">COMPRESSION</string>
+    <string name="password">Password</string>
+    <string name="secure_pdf">SECURE PDF</string>
+    <string name="_27_sept_2015_22_30">27 Sept 2015, 22:30</string>
+    <string name="sample">sample</string>
+    <string name="_0">0%</string>
+    <string name="file_name">File Name</string>
+    <string name="open_file">Open File</string>
+    <string name="ocr_document">OCR Document</string>
+    <string name="email">Email</string>
+    <string name="share_a_copy">Share a Copy</string>
+    <string name="copy_to">Copy To</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+
+</resources>

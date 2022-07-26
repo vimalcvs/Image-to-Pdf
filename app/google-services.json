@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123327452463",
+    "project_id": "trend-wallpapers-4k",
+    "storage_bucket": "trend-wallpapers-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123327452463:android:2c868d1a8c902a3359bdda",
+        "android_client_info": {
+          "package_name": "com.benzveen.imagetopdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123327452463-45vhqjc7n0sfu5f2tnh2kut06pj5bovv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJLZy2HOxgDBigpU1PavfRXiOITZiJbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123327452463-45vhqjc7n0sfu5f2tnh2kut06pj5bovv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
